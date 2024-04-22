@@ -9,3 +9,6 @@
 ## **Instalación**
 
 ## **Integrantes del equipo**
+- Lourdes Gabriela Batún Cemé
+- Erik Alejandro Poot Sánchez
+- Carlos Fernando Sánchez Chuc
