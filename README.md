@@ -2,8 +2,8 @@
 
 ## **Tabla de contenidos**
 
--[Instalación](#instalacion)
--[Integrantes del equipo](#integrantes-del-equipo)
+- [Instalación](#instalacion)
+- [Integrantes del equipo](#integrantes-del-equipo)
 
 ## **Instalación**
 
