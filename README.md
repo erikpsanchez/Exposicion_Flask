@@ -2,7 +2,9 @@
 
 ## **Tabla de contenidos**
 
-- Instalación
+[- Instalación](#instalacion)
 [- Integrantes del equipo](#integrantes-del-equipo)
+
+## **Instalación**
 
 ## **Integrantes del equipo**
