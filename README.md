@@ -5,7 +5,7 @@
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Presentación](./presentacion.md)
-- [Ejemplo](./Ejemplos)
+- [Ejemplos](./Ejemplos)
 - [Documentación](#documentación)
 - [Integrantes del equipo](#integrantes-del-equipo)
 
