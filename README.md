@@ -23,7 +23,7 @@ pip install Flask
 [Quiero ver la presentación](./Presentacion/presentacion.md)
 
 ## **Ejemplos**
-El código de los ejemplos los encuentas [aquí](./Ejemplos).
+El código de los ejemplos los encuentras [aquí](./Ejemplos).
 
 ## **Resultados**
 Los resultados del ejemplo los encuentras [aquí](./Resultados/resultados.md).
