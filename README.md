@@ -26,7 +26,7 @@ pip install Flask
 El código de los ejemplos los encuentas [aquí](./Ejemplos).
 
 ## **Resultados**
-
+Los resultados del ejemplo los encuentras [aquí](./Resultados/resultados.md).
 
 ## **Documentación**
 - Puedes consultar este [enlace](https://documenter.getpostman.com/view/27461273/2sA3Bq4WZh#4cc3317f-04ed-4adf-a3c3-4298e4379da5) para ver la documentación de los endpoints y clonar la colección de **Postman**.
