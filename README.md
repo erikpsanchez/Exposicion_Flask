@@ -20,7 +20,7 @@
 pip install Flask
 ```
 ## **Presentación**
-[Quiero ver la presentación](.Presentacion/presentacion.md)
+[Quiero ver la presentación](./Presentacion/presentacion.md)
 
 ## **Ejemplos**
 El código de los ejemplos los encuentas [aquí](./Ejemplos).
