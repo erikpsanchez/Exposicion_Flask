@@ -1,4 +1,4 @@
-# Exposición Flask 👾
+# Python con framework Flask para arquitectura REST 🐍
 
 ## 📄 **Tabla de contenidos** 
 
