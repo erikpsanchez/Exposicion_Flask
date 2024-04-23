@@ -26,6 +26,7 @@ pip install Flask
 El código de los ejemplos los encuentas [aquí](./Ejemplos).
 
 ## **Documentación**
+Puedes consultar este [enlace](https://documenter.getpostman.com/view/27461273/2sA3Bq4WZh#4cc3317f-04ed-4adf-a3c3-4298e4379da5) para ver la documentación de la API y clonar la colección.
 Puedes encontrar más información de Flask [aquí](https://flask.palletsprojects.com/en/3.0.x/).
 ## **Integrantes del equipo**
 - [Lourdes Gabriela Batún Cemé](https://github.com/Gabriela-Batun-Ceme)
