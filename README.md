@@ -24,6 +24,11 @@ pip install Flask
 
 ## **Ejemplos**
 El código de los ejemplos los encuentras [aquí](./Ejemplos).
+Para ejecutar los ejemplos:
+```shell
+python helloWorld.py
+python server.py
+```
 
 ## **Resultados**
 Los resultados del ejemplo los encuentras [aquí](./Resultados/resultados.md).
