@@ -9,3 +9,15 @@
 
 ## Get books
 ![Imagen](./GetBooks.png "...")
+
+## Get book
+![Imagen](./GetBook.png "...")
+
+## Create book
+![Imagen](./CreateBook.png "...")
+
+## Update book
+![Imagen](./UpdateBook.png "...")
+
+## Delete book
+![Imagen](./DeleteBook.png "...")
