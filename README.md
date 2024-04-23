@@ -27,9 +27,10 @@ El código de los ejemplos los encuentras [aquí](./Ejemplos).
 Para ejecutar los ejemplos:
 ```shell
 python helloWorld.py
+```
+```shell
 python server.py
 ```
-
 ## **Resultados**
 Los resultados del ejemplo los encuentras [aquí](./Resultados/resultados.md).
 
